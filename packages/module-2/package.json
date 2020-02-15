@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "react": "^16.6.8"
-  }
+  },
+  "gitHead": "85dd999bf098b5976c83e4b8035ade2faf58ff0f"
 }
