@@ -1,5 +1,5 @@
 {
-  "name": "module-2",
+  "name": "mei-server",
   "version": "0.0.6",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "react": "^16.6.8"
   },
-  "gitHead": "d61fc69b6d8091ad13838fa7a1352103f3dc0342"
+  "gitHead": "82320c40dd66d816a612b28cb24ef76ec6cd1a1a"
 }
