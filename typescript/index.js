@@ -1,1 +1,3 @@
-var decLiteral = 6;
+var decLiteral = 7;
+let names = 9
+console.log(names)
