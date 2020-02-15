@@ -1,6 +1,7 @@
 {
   "packages": [
-    "packages/*"
+    "packages/*",
+    "mei-stock/*"
   ],
   "version": "0.0.5",
   "npmClient": "npm"

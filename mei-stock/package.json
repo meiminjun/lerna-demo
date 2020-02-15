@@ -11,6 +11,5 @@
   "license": "ISC",
   "dependencies": {
     "vue": "^2.6.11"
-  },
-  "gitHead": "b246a769766e4e4d93342afec7a3d881a9bbec0a"
+  }
 }
