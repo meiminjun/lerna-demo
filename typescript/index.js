@@ -1,0 +1,1 @@
+var decLiteral = 6;

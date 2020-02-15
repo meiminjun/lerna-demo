@@ -1,6 +1,5 @@
 {
   "packages": [
-    "mei-stock/*",
     "packages/*"
   ],
   "version": "0.0.8",
