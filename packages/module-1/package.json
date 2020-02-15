@@ -1,5 +1,5 @@
 {
-  "name": "module-1",
+  "name": "mei-stock",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "vue": "^2.6.11"
   },
-  "gitHead": "85dd999bf098b5976c83e4b8035ade2faf58ff0f"
+  "gitHead": "b246a769766e4e4d93342afec7a3d881a9bbec0a"
 }
