@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "^16.6.8"
+    "react": "^16.6.8",
+    "vue": "^2.6.11"
   },
   "gitHead": "82320c40dd66d816a612b28cb24ef76ec6cd1a1a"
 }
